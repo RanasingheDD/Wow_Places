@@ -1,4 +1,4 @@
-# Wow Places Android App
+# Wow Places Android App Using Flutter
 
 Wow Places is an Android app developed with Dart that showcases the beauty of Sri Lanka by featuring details of stunning places across the country. Whether you're a local or a tourist, Wow Places provides valuable information about must-visit destinations, allowing users to explore the natural and cultural wonders of Sri Lanka.
 
