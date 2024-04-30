@@ -16,8 +16,8 @@ Wow Places is an Android app developed with Dart that showcases the beauty of Sr
 
 ## Screenshots
 
-![Screenshot 1](Screenshot_1714470956.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Screenshots/Screenshot_1714470956.png)
+![Screenshot 2](Screenshots/Screenshot_1714474555.png)
 <!-- Add more screenshots here -->
 
 ## Getting Started
