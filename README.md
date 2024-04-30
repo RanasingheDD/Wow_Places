@@ -10,10 +10,6 @@ Wow Places is an Android app developed with Dart that showcases the beauty of Sr
 
 - **User-friendly Interface**: Navigate the app effortlessly with its intuitive and visually appealing user interface.
 
-- **Search Functionality**: Easily find specific places using the search feature, which allows users to search by name or location.
-
-- **Favorites**: Mark your favorite places for quick access and reference later.
-
 ## Screenshots
 
 ![Screenshot 1](Screenshots/Screenshot_1714470956.png)
